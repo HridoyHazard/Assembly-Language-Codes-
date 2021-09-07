@@ -11,3 +11,13 @@ Also More Resource Worth Mentioning
 [Link 2](https://faculty.kfupm.edu.sa/COE/shazli/coe205/Help/asm_tutorial_01.html)
 [Link 3](https://riptutorial.com/assembly)
 
+## **Where To Get Emu8086 Full Version**:
+Check The Zip File In Repo
+
+## **What's This Repo For**:
+This Repo Contains The Code of Assebly Language of 8086 Processor.It Contain Some Exercises & Assignment
+<p align="center"> Exercise & Assignment Photo
+    <img src="img/1.jpg">
+    <img src="img/2.jpg">
+</p>
+
