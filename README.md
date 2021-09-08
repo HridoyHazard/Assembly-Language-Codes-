@@ -17,7 +17,7 @@ Check The Zip File In Repo
 ## **What's This Repo For**:
 This Repo Contains The Code of Assebly Language of 8086 Processor.It Contain Some Exercises & Assignment
 <p align="center"> Exercise & Assignment Photo
-    <img src="img/1.jpg">
     <img src="img/2.jpg">
+    <img src="img/1.jpg">
 </p>
 
