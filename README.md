@@ -11,6 +11,8 @@ Also More Resource Worth Mentioning
 [Link 2](https://faculty.kfupm.edu.sa/COE/shazli/coe205/Help/asm_tutorial_01.html)
 [Link 3](https://riptutorial.com/assembly)
 
+Or You Can Download the pdf tutorial which i uploaded in this repository
+
 You Will Get This Course In Your 3rd Year Of B.Sc. In Computer Science & Engineering
 
 ## **Where To Get Emu8086 Full Version**:
